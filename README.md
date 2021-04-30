@@ -4,7 +4,7 @@
 <h4 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
-  <a href="https://github.com/TeamDaisyX/DaisyX-v2/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
+  <a href="https://github.com/mouusteam/DaisyX-v2/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
 <p align="center"><a href="https://t.me/DaisySupport_Official"><img src="https://telegra.ph/file/23448c98735bd81df47e7.jpg" width="400"></a></p>
@@ -23,7 +23,7 @@
 ## Avaiilable on Telegram as [@DaisyXBot](https://t.me/daisyxbot)
 
 # 🧙‍♀️ Deploy Guide
-Complete guide on deploying @DaisyXBot's clone on Heroku.
+Complete guide on deploying @moluusBot's clone on Heroku.
 
 <p align="left"><a href="https://www.youtube.com/watch?v=yar61k_hEHQ"><img src="https://telegra.ph/file/8b29eb79eebc55e5e1fcb.jpg" width="300"></a></p> 
 
@@ -51,7 +51,7 @@ $ cd DaisyX
 $ bash deploy.sh
 # Install All Requirements 
 $ pip(3) install -r requirements.txt
-# Rename ./DaisyX/data/bot_conf.yaml.example to bot_conf.yaml and fill
+# Rename ./Monuuz12334/data/bot_conf.yaml.example to bot_conf.yaml and fill
 # Start Bot 
 $ python(3) -m DaisyX
 ```
